@@ -13,5 +13,9 @@
 * Предоставить данные (А4).   
 
 # Лабораторная работа 4
+![none](https://github.com/cmpunk551/courseWork/blob/master/CourseWork/1.png) 
+![none](https://github.com/cmpunk551/courseWork/blob/master/CourseWork/2.png)
 # Лабораторная работа 5
+![none](https://github.com/cmpunk551/courseWork/blob/master/CourseWork/3.png)
+![none](https://github.com/cmpunk551/courseWork/blob/master/CourseWork/4.png)
 # Лабораторная работа 6
