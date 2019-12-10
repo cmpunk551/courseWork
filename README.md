@@ -21,8 +21,8 @@
 
 ![none](https://github.com/cmpunk551/courseWork/blob/master/CourseWork/4.png)
 # Лабораторная работа 6
-![none](https://github.com/cmpunk551/courseWork/blob/master/CourseWork/5.png)
+![none](https://github.com/cmpunk551/courseWork/blob/master/5.png)
 
-![none](https://github.com/cmpunk551/courseWork/blob/master/CourseWork/6.png)
+![none](https://github.com/cmpunk551/courseWork/blob/master/6.png)
 
-![none](https://github.com/cmpunk551/courseWork/blob/master/CourseWork/7.png)
+![none](https://github.com/cmpunk551/courseWork/blob/master/7.png)
