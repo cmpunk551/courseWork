@@ -25,9 +25,12 @@
 * Декомпозиция блока Разместить файлы в каталоги (A33)
 ![none](https://github.com/cmpunk551/courseWork/blob/master/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/6.png)  
 ## UML диаграммы для курсового проекта
-* ER-диаграмма для всех потоков:
+* ER-диаграмма для всех потоков:  
 ![none](https://github.com/cmpunk551/courseWork/blob/master/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/7.png)  
-* ER-диаграмма для всех ролей:
-![none](https://github.com/cmpunk551/courseWork/blob/master/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/8.png)  
+* ER-диаграмма для всех ролей:  
+
+![none](https://github.com/cmpunk551/courseWork/blob/master/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/8.png)
+
 * ER-диаграмма для всех модулей:
+
 ![none](https://github.com/cmpunk551/courseWork/blob/master/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/9.png)  
