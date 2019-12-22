@@ -12,7 +12,7 @@
 * Сортировка файлов (А3).   
 * Выдача результатов обработки (А4).   
 ## IDEF0
-![none](https://github.com/cmpunk551/courseWork/blob/master/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/1.png)
+  ![none](https://github.com/cmpunk551/courseWork/blob/master/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/1.png)
 * Декомпозиция блока Программа для обработки загружаемых файлов (А0)  
 ![none](https://github.com/cmpunk551/courseWork/blob/master/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/2.png) 
 * Декомпозиция блока Анализировать файлы (А2)  
