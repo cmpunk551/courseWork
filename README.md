@@ -34,3 +34,15 @@
 * ER-диаграмма для всех модулей:
 
 ![none](https://github.com/cmpunk551/courseWork/blob/master/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/9.png)  
+## Расчёт трудозатрат на выполнение проекта:
+* Определение количества функциональных точек:   
+![none](https://github.com/cmpunk551/courseWork/blob/master/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/10.png) 
+* Трудозатраты по FPA IFPUG:  
+![none](https://github.com/cmpunk551/courseWork/blob/master/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/11.png)
+* Трудозатраты по COCOMO II:  
+![none](https://github.com/cmpunk551/courseWork/blob/master/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/12.png)
+
+Расчеты, выполненные вторым методом COCOMO II, позволяют оценить общие трудозатраты проекта разработки программных средств в 3 человеко-месяцев, а ожидаемую продолжительность проекта – в 5 месяцев. В результате того, что проект предварительно разрабатывался, он будет готов к защите ВКР.
+
+### Эффект работы программы
+![none](https://github.com/cmpunk551/courseWork/blob/master/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/13.png)
